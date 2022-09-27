@@ -1730,10 +1730,10 @@ section {
   background-color: rgb(77, 194, 71) !important;
   position: relative;
 }
-.jWcIXO .bxl-whatsapp{
+.jWcIXO .bi-whatsapp{
   font-size: 30px;
   position: absolute;
-  top: 10px;
+  top: 0px;
   left: 10px;
   color: #fff;
 }
