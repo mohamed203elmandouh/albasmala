@@ -1704,3 +1704,41 @@ section {
 .footer .credits a {
   color: #fff;
 }
+.classWa {     
+  position: fixed;   
+  bottom: 10px;
+  left: 10px;
+  z-index: 2;
+}
+
+.jWcIXO {
+  flex-shrink: 0;
+  width: 50px;
+  height: 50px;
+  order: 2;
+  padding: 5px;
+  box-sizing: border-box;
+  border-radius: 50%;
+  cursor: pointer;
+  overflow: hidden;
+  box-shadow: rgb(0 0 0 / 40%) 2px 2px 6px;
+  transition: all 0.5s ease 0s;
+  position: relative;
+  z-index: 200;
+  display: block;
+  border: 0px;
+  background-color: rgb(77, 194, 71) !important;
+  position: relative;
+}
+.jWcIXO .bxl-whatsapp{
+  font-size: 30px;
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  color: #fff;
+}
+.jWcIXO:hover  .bxl-whatsapp,
+.jWcIXO:focus  .bxl-whatsapp,
+.bxl-whatsapp:hover{
+  color: #262626 !important;
+}
